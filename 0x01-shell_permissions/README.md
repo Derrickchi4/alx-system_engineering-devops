@@ -1,1 +1,1 @@
-Shell permissions
+(l)create a script that switches the current user to betty. (2)
